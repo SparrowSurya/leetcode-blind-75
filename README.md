@@ -6,3 +6,4 @@
 2. [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [py](./best-time-to-buy-and-sell-stock.py) | [c++](./best-time-to-buy-and-sell-stock.cpp)
 3. [contains-duplicate](https://leetcode.com/problems/contains-duplicate/) | [py](./contains-duplicate.py) | [c++](./contains-duplicate.cpp)
 4. [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/) | [py](./product-of-array-except-self.py) | [c++](./product-of-array-except-self.cpp)
+5. [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | [py](./maximum-subarray.py) | [cpp](./maximum-subarray.cpp)
