@@ -7,3 +7,4 @@
 3. [contains-duplicate](https://leetcode.com/problems/contains-duplicate/) | [py](./contains-duplicate.py) | [c++](./contains-duplicate.cpp)
 4. [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/) | [py](./product-of-array-except-self.py) | [c++](./product-of-array-except-self.cpp)
 5. [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | [py](./maximum-subarray.py) | [cpp](./maximum-subarray.cpp)
+5. [maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/) | [py](./maximum-product-subarray.py) | [cpp]((./maximum-product-subarray.cpp))
