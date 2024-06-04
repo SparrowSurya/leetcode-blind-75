@@ -9,3 +9,4 @@
 5. [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | [py](./maximum-subarray.py) | [cpp](./maximum-subarray.cpp)
 6. [maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/) | [py](./maximum-product-subarray.py) | [cpp]((./maximum-product-subarray.cpp))
 7. [find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [py](./find-minimum-in-rotated-sorted-array.py) | [cpp](./find-minimum-in-rotated-sorted-array.cpp)
+8. [search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [py](./search-in-rotated-sorted-array.py) | [cpp](./search-in-rotated-sorted-array.cpp)
