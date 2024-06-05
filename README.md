@@ -11,3 +11,4 @@
 7. [find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [py](./find-minimum-in-rotated-sorted-array.py) | [cpp](./find-minimum-in-rotated-sorted-array.cpp)
 8. [search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [py](./search-in-rotated-sorted-array.py) | [cpp](./search-in-rotated-sorted-array.cpp)
 9. [3sum](https://leetcode.com/problems/3sum/) | [py](./3sum.py) | [cpp](./3sum.cpp)
+10. [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) | [py](./container-with-most-water.py) | [cpp](./container-with-most-water.cpp)
