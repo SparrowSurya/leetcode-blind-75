@@ -17,3 +17,4 @@
 13. [counting-bits](https://leetcode.com/problems/counting-bits/) | [py](./counting-bits.py) | [cpp](./counting-bits.cpp)
 14. [missing-number](https://leetcode.com/problems/missing-number/) | [py](./missing-number.py) | [cpp](./missing-number.cpp)
 15. [reverse-bits](https://leetcode.com/problems/reverse-bits/) | [py](./reverse-bits.py) | [cpp](./reverse-bits.cpp)
+16. [climbing-stairs](https://leetcode.com/problems/climbing-stairs/) | [py](.climbing-stairs.py) | [cpp](./climbing-stairs.cpp)
