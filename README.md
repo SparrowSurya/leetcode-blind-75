@@ -16,3 +16,4 @@
 12. [number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/) | [py](./number-of-1-bits.py) | [cpp](./number-of-1-bits.cpp)
 13. [counting-bits](https://leetcode.com/problems/counting-bits/) | [py](./counting-bits.py) | [cpp](./counting-bits.cpp)
 14. [missing-number](https://leetcode.com/problems/missing-number/) | [py](./missing-number.py) | [cpp](./missing-number.cpp)
+15. [reverse-bits](https://leetcode.com/problems/reverse-bits/) | [py](./reverse-bits.py) | [cpp](./reverse-bits.cpp)
