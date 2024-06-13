@@ -26,3 +26,4 @@
 22. [house-robber](https://leetcode.com/problems/house-robber/) | [py](./house-robber.py) | [cpp](./house-robber.cpp)
 23. [house-robber-ii](https://leetcode.com/problems/house-robber-ii/) | [py](./house-robber-ii.py) | [cpp](./house-robber-ii.cpp)
 24. [decode-ways](https://leetcode.com/problems/decode-ways/) | [py](./decode-ways.py) | [cpp](./decode-ways.cpp)
+25. [unique-paths](https://leetcode.com/problems/unique-paths/) | [py](./unique-paths.py) | [cpp](./unique-paths.cpp)
