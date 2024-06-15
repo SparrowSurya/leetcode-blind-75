@@ -23,7 +23,7 @@ public:
         return true;
     }
 
-    bool finish(int course, unordered_map<int, vector<int>> hashmap, vector<bool> visited) {
+    bool finish(int course, unordered_map<int, vector<int>>& hashmap, vector<bool> visited) {
         if (hashmap[course].size() == 0) return true;
         if (visited[course]) return false;
 
