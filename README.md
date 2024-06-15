@@ -31,3 +31,4 @@
 27. [clone-graph](https://leetcode.com/problems/clone-graph/) | [py](./clone-graph.py) | [cpp](./clone-graph.cpp) - ERROR
 28. [course-schedule](https://leetcode.com/problems/course-schedule/) | [py](./course-schedule.py) | [cpp](./course-schedule.cpp) - TLE
 29. [pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [py](./pacific-atlantic-water-flow.py) | [cpp](./pacific-atlantic-water-flow.cpp)
+30. [number-of-islands](https://leetcode.com/problems/number-of-islands/) | [py](./number-of-islands.py) | [cpp](./number-of-islands.cpp)
