@@ -32,3 +32,4 @@
 28. [course-schedule](https://leetcode.com/problems/course-schedule/) | [py](./course-schedule.py) | [cpp](./course-schedule.cpp) 
 29. [pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [py](./pacific-atlantic-water-flow.py) | [cpp](./pacific-atlantic-water-flow.cpp)
 30. [number-of-islands](https://leetcode.com/problems/number-of-islands/) | [py](./number-of-islands.py) | [cpp](./number-of-islands.cpp)
+31. [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [py](./longest-consecutive-sequence.py) | [cpp](./longest-consecutive-sequence.cpp)
