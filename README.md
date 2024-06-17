@@ -35,4 +35,4 @@
 31. [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [py](./longest-consecutive-sequence.py) | [cpp](./longest-consecutive-sequence.cpp)
 32. [alien-dictionary](https://leetcode.com/problems/alien-dictionary/) | [py](./alien-dictionary.py) | [cpp](./alien-dictionary.cpp) [Leetcode Premium]
 33. [graph-valid-tree](https://leetcode.com/problems/graph-valid-tree/) | [py](./graph-valid-tree.py) | [cpp](./graph-valid-tree.cpp) [Leetcode Premium]
-34. [number-of-connected-components-in-an-undirected-graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | N/A | N/A [Leetcode Premium]
+34. [number-of-connected-components-in-an-undirected-graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [py](./number-of-connected-components-in-an-undirected-graph.py) | [cpp](./number-of-connected-components-in-an-undirected-graph.cpp) [Leetcode Premium]
