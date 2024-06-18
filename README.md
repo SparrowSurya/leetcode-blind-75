@@ -36,5 +36,5 @@
 32. [alien-dictionary](https://leetcode.com/problems/alien-dictionary/) | [py](./alien-dictionary.py) | [cpp](./alien-dictionary.cpp) [Leetcode Premium]
 33. [graph-valid-tree](https://leetcode.com/problems/graph-valid-tree/) | [py](./graph-valid-tree.py) | [cpp](./graph-valid-tree.cpp) [Leetcode Premium]
 34. [number-of-connected-components-in-an-undirected-graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [py](./number-of-connected-components-in-an-undirected-graph.py) | [cpp](./number-of-connected-components-in-an-undirected-graph.cpp) [Leetcode Premium]
-35. [insert-interval](https://leetcode.com/problems/insert-interval/) |
-    [py](./insert-interval.py) | [cpp](./insert-interval.cpp)
+35. [insert-interval](https://leetcode.com/problems/insert-interval/) | [py](./insert-interval.py) | [cpp](./insert-interval.cpp)
+36. [merge-intervals](https://leetcode.com/problems/merge-intervals/) | [py](./merge-intervals.py) | [cpp](./merge-intervals.cpp)
