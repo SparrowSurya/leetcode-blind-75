@@ -41,3 +41,4 @@
 37. [non-overlapping-intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [py](./non-overlapping-intervals.py) | [cpp](./non-overlapping-intervals.cpp)
 38. [meeting-rooms](https://leetcode.com/problems/meeting-rooms/) | [py](./meeting-rooms.py) | [cpp](./meeting-rooms.cpp) [Leetcode Premium]
 39. [meeting-rooms-ii](https://leetcode.com/problems/meeting-rooms-ii/) | [py](./meeting-rooms-ii.py) | [cpp](./meeting-rooms-ii.cpp) [Leetcode Premium]
+40. [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) | [py](./reverse-linked-list.py) | [cpp](./reverse-linked-list.cpp)
