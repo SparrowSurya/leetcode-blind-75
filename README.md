@@ -43,3 +43,4 @@
 39. [meeting-rooms-ii](https://leetcode.com/problems/meeting-rooms-ii/) | [py](./meeting-rooms-ii.py) | [cpp](./meeting-rooms-ii.cpp) [Leetcode Premium]
 40. [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) | [py](./reverse-linked-list.py) | [cpp](./reverse-linked-list.cpp)
 41. [linked-list-cycle](https://leetcod.com/problems/linked-list-cycle/) | [py](./linked-list-cycle.py) | [cpp](./linked-list-cycle.cpp)
+42. [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [py](./merge-two-sorted-lists.py) | [cpp](./merge-two-sorted-lists.cpp)
