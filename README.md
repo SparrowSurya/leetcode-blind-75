@@ -45,3 +45,4 @@
 41. [linked-list-cycle](https://leetcod.com/problems/linked-list-cycle/) | [py](./linked-list-cycle.py) | [cpp](./linked-list-cycle.cpp)
 42. [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [py](./merge-two-sorted-lists.py) | [cpp](./merge-two-sorted-lists.cpp)
 43. [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [py](./merge-k-sorted-lists.py) | [cpp](./merge-k-sorted-lists.cpp)
+44. [remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [py](./remove-nth-node-from-end-of-list.py) | [cpp](./remove-nth-node-from-end-of-list.cpp)
