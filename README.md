@@ -44,3 +44,4 @@
 40. [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) | [py](./reverse-linked-list.py) | [cpp](./reverse-linked-list.cpp)
 41. [linked-list-cycle](https://leetcod.com/problems/linked-list-cycle/) | [py](./linked-list-cycle.py) | [cpp](./linked-list-cycle.cpp)
 42. [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [py](./merge-two-sorted-lists.py) | [cpp](./merge-two-sorted-lists.cpp)
+43. [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [py](./merge-k-sorted-lists.py) | [cpp](./merge-k-sorted-lists.cpp)
