@@ -48,3 +48,4 @@
 44. [remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [py](./remove-nth-node-from-end-of-list.py) | [cpp](./remove-nth-node-from-end-of-list.cpp)
 45. [reorder-list](https://leetcode.com/problems/reorder-list/) | [py](./reorder-list.py) | [cpp](./reorder-list.cpp)
 46. [set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [py](./set-matrix-zeroes.py) | [cpp](./set-matrix-zeroes.cpp)
+47. [spiral-matrix](https://leetcode.com/problems/spiral-matrix/) | [py](./spiral-matrix.py) | [cpp](./spiral-matrix.cpp)
