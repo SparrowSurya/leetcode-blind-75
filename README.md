@@ -51,3 +51,4 @@
 47. [spiral-matrix](https://leetcode.com/problems/spiral-matrix/) | [py](./spiral-matrix.py) | [cpp](./spiral-matrix.cpp)
 48. [rotate-image](https://leetcode.com/problems/rotate-image/) | [py](./rotate-image.py) | [cpp](./rotate-image.cpp)
 49. [word-search](https://leetcode.com/problems/word-search/) | [py](./word-search.py) | [cpp](./word-search.cpp)
+50. [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [py](./longest-substring-without-repeating-characters.py) | [cpp](./longest-substring-without-repeating-characters.cpp)
