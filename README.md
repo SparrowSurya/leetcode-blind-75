@@ -29,7 +29,7 @@
 25. [unique-paths](https://leetcode.com/problems/unique-paths/) | [py](./unique-paths.py) | [cpp](./unique-paths.cpp)
 26. [jump-game](https://leetcode.com/problems/jump-game/) | [py](./jump-game.py) | [cpp](./jump-game.cpp)
 27. [clone-graph](https://leetcode.com/problems/clone-graph/) | [py](./clone-graph.py) | [cpp](./clone-graph.cpp) [cpp-ERROR] [PAGE-404]
-28. [course-schedule](https://leetcode.com/problems/course-schedule/) | [py](./course-schedule.py) | [cpp](./course-schedule.cpp) 
+28. [course-schedule](https://leetcode.com/problems/course-schedule/) | [py](./course-schedule.py) | [cpp](./course-schedule.cpp)
 29. [pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [py](./pacific-atlantic-water-flow.py) | [cpp](./pacific-atlantic-water-flow.cpp)
 30. [number-of-islands](https://leetcode.com/problems/number-of-islands/) | [py](./number-of-islands.py) | [cpp](./number-of-islands.cpp)
 31. [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [py](./longest-consecutive-sequence.py) | [cpp](./longest-consecutive-sequence.cpp)
@@ -50,3 +50,4 @@
 46. [set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [py](./set-matrix-zeroes.py) | [cpp](./set-matrix-zeroes.cpp)
 47. [spiral-matrix](https://leetcode.com/problems/spiral-matrix/) | [py](./spiral-matrix.py) | [cpp](./spiral-matrix.cpp)
 48. [rotate-image](https://leetcode.com/problems/rotate-image/) | [py](./rotate-image.py) | [cpp](./rotate-image.cpp)
+49. [word-search](https://leetcode.com/problems/word-search/) | [py](./word-search.py) | [cpp](./word-search.cpp)
