@@ -53,3 +53,4 @@
 49. [word-search](https://leetcode.com/problems/word-search/) | [py](./word-search.py) | [cpp](./word-search.cpp)
 50. [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [py](./longest-substring-without-repeating-characters.py) | [cpp](./longest-substring-without-repeating-characters.cpp)
 51. [longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [py](./longest-repeating-character-replacement.py) | [cpp](./longest-repeating-character-replacement.cpp)
+52. [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/) | [py](./minimum-window-substring.py) | [cpp](./minimum-window-substring.cpp)
