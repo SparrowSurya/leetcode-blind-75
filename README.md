@@ -56,3 +56,4 @@
 52. [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/) | [py](./minimum-window-substring.py) | [cpp](./minimum-window-substring.cpp)
 53. [valid-anagram](https://leetcode.com/problems/valid-anagram/) | [py](.valid-anagram.py) | [cpp](./valid-anagram.py)
 54. [group-anagrams](https://leetcode.com/problems/group-anagrams/) | [py](./group-anagrams.py) | [cpp](./group-anagrams.cpp)
+55. [valid-parentheses](https://leetcode.com/problems/valid-parentheses/) | [py](./valid-parentheses.py) | [cpp](./valid-parentheses.cpp)
