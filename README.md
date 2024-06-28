@@ -57,3 +57,4 @@
 53. [valid-anagram](https://leetcode.com/problems/valid-anagram/) | [py](.valid-anagram.py) | [cpp](./valid-anagram.py)
 54. [group-anagrams](https://leetcode.com/problems/group-anagrams/) | [py](./group-anagrams.py) | [cpp](./group-anagrams.cpp)
 55. [valid-parentheses](https://leetcode.com/problems/valid-parentheses/) | [py](./valid-parentheses.py) | [cpp](./valid-parentheses.cpp)
+56. [valid-palindrome](https://leetcode.com/problems/valid-palindrome/) | [py](./valid-palindrome.py) | [cpp](./valid-palindrome.cpp)
