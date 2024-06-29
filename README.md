@@ -58,3 +58,4 @@
 54. [group-anagrams](https://leetcode.com/problems/group-anagrams/) | [py](./group-anagrams.py) | [cpp](./group-anagrams.cpp)
 55. [valid-parentheses](https://leetcode.com/problems/valid-parentheses/) | [py](./valid-parentheses.py) | [cpp](./valid-parentheses.cpp)
 56. [valid-palindrome](https://leetcode.com/problems/valid-palindrome/) | [py](./valid-palindrome.py) | [cpp](./valid-palindrome.cpp)
+57. [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/) | [py](./longest-palindromic-substring.py) | [cpp](./longest-palindromic-substring.cpp)
