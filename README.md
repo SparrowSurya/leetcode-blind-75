@@ -59,3 +59,4 @@
 55. [valid-parentheses](https://leetcode.com/problems/valid-parentheses/) | [py](./valid-parentheses.py) | [cpp](./valid-parentheses.cpp)
 56. [valid-palindrome](https://leetcode.com/problems/valid-palindrome/) | [py](./valid-palindrome.py) | [cpp](./valid-palindrome.cpp)
 57. [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/) | [py](./longest-palindromic-substring.py) | [cpp](./longest-palindromic-substring.cpp)
+58. [palindromic-substrings](https://leetcode.com/problems/palindromic-substrings/) | [py](./palindromic-substrings.py) | [cpp](./palindromic-substrings.cpp)
