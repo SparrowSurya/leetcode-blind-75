@@ -60,3 +60,4 @@
 56. [valid-palindrome](https://leetcode.com/problems/valid-palindrome/) | [py](./valid-palindrome.py) | [cpp](./valid-palindrome.cpp)
 57. [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/) | [py](./longest-palindromic-substring.py) | [cpp](./longest-palindromic-substring.cpp)
 58. [palindromic-substrings](https://leetcode.com/problems/palindromic-substrings/) | [py](./palindromic-substrings.py) | [cpp](./palindromic-substrings.cpp)
+59. [encode-and-decode-strings](https://leetcode.com/problems/encode-and-decode-strings/) | [py](./encode-and-decode-strings.py) | [cpp](./encode-and-decode-strings.cpp) [Leetcode Premium]
