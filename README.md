@@ -63,3 +63,4 @@
 59. [encode-and-decode-strings](https://leetcode.com/problems/encode-and-decode-strings/) | [py](./encode-and-decode-strings.py) | [cpp](./encode-and-decode-strings.cpp) [Leetcode Premium]
 60. [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [py](./maximum-depth-of-binary-tree.py) | [cpp](./maximum-depth-of-binary-tree.cpp)
 61. [same-tree](https://leetcode.com/problems/same-tree/) | [py](./same-tree.py) | [cpp](./same-tree.cpp)
+62. [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/) | [py](./invert-binary-tree.py) | [cpp](./invert-binary-tree.cpp)
