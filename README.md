@@ -62,3 +62,4 @@
 58. [palindromic-substrings](https://leetcode.com/problems/palindromic-substrings/) | [py](./palindromic-substrings.py) | [cpp](./palindromic-substrings.cpp)
 59. [encode-and-decode-strings](https://leetcode.com/problems/encode-and-decode-strings/) | [py](./encode-and-decode-strings.py) | [cpp](./encode-and-decode-strings.cpp) [Leetcode Premium]
 60. [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [py](./maximum-depth-of-binary-tree.py) | [cpp](./maximum-depth-of-binary-tree.cpp)
+61. [same-tree](https://leetcode.com/problems/same-tree/) | [py](./same-tree.py) | [cpp](./same-tree.cpp)
