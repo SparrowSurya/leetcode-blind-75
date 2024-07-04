@@ -68,3 +68,4 @@
 64. [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [py](./binary-tree-level-order-traversal.py) | [cpp](./binary-tree-level-order-traversal.cpp)
 65. [serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [py](./serialize-and-deserialize-binary-tree.py) | [cpp](./serialize-and-deserialize-binary-tree.cpp)
 66. [subtree-of-another-tree](https://leetcode.com/problems/subtree-of-another-tree/) | [py](./subtree-of-another-tree.py) | [cpp](./subtree-of-another-tree.cpp)
+67. [construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [py](./construct-binary-tree-from-preorder-and-inorder-traversal.py) | [cpp](./construct-binary-tree-from-preorder-and-inorder-traversal.cpp)
