@@ -71,3 +71,4 @@
 67. [construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [py](./construct-binary-tree-from-preorder-and-inorder-traversal.py) | [cpp](./construct-binary-tree-from-preorder-and-inorder-traversal.cpp)
 68. [validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/) | [py](./validate-binary-search-tree.py) | [cpp](./validate-binary-search-tree.cpp)
 69. [kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [py](./kth-smallest-element-in-a-bst.py) | [cpp](./kth-smallest-element-in-a-bst.cpp)
+70. [lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems//lowest-common-ancestor-of-a-binary-search-tree/) | [py](./lowest-common-ancestor-of-a-binary-search-tree.py) | [cpp](./lowest-common-ancestor-of-a-binary-search-tree.cpp)
