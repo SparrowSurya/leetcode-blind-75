@@ -1,5 +1,3 @@
-#include <string>
-
 using namespace std;
 
 #define Index(ch) (ch - 'a')
@@ -28,36 +26,39 @@ struct TrieNode {
 	}
 };
 
-class Trie {
+class WordDictionary {
 	TrieNode *root;
 public:
-    Trie() {
-		root = new TrieNode();
+    WordDictionary() {
+        root = new TrieNode();
     }
-
-    void insert(string word) {
+    
+    void addWord(string word) {
         TrieNode *node = root;
 		for (char ch: word) {
 			node = node->get_or_create(ch);
 		}
 		node->isEnd = true;
     }
-
+    
     bool search(string word) {
-        TrieNode *node = root;
-		for (char ch: word) {
-			node = node->get(ch);
-			if (node == nullptr) return false;
-		}
-		return node->isEnd;
+		return _search(root, word, 0);        
     }
 
-    bool startsWith(string prefix) {
-        TrieNode *node = root;
-		for (char ch: prefix) {
-			node = node->get(ch);
-			if (node == nullptr) return false;
+private:
+	bool _search(TrieNode *node, string word, int i) {
+		if (i >= word.size()) return (node == nullptr || node->isEnd);
+
+		if (word[i] == '.') {
+			for (int j=0; j<26; ++j) {
+				TrieNode *child = node->children[j];
+				if (child == nullptr) continue;
+				if (_search(child, word, i+1)) return true;
+			}
+			return false;
 		}
-		return true;
-    }
+
+		node = node->get(word[i]);
+		return (node == nullptr)? false: _search(node, word, i+1);
+	}
 };
