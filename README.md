@@ -75,3 +75,4 @@
 71. [implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | [py](./implement-trie-prefix-tree.py) | [cpp](./implement-trie-prefix-tree.cpp)
 72. [design-add-and-search-words-data-structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [py](./design-add-and-search-words-data-structure.py) | [cpp](./design-add-and-search-words-data-structure.cpp)
 73. [word-search-ii](https://leetcode.com/problems/word-search-ii/) | [py](./word-search-ii.py) | [cpp](./word-search-ii.cpp)
+74. [top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/) | [py](./top-k-frequent-elements.py) | [cpp](./top-k-frequent-elements.cpp)
